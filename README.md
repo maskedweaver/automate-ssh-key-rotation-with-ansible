@@ -7,4 +7,4 @@ System administrators rely on this protocol to manage systems and applications r
 Read the full article on our meduim page
 
 - [Automate SSH Key Rotation With Ansible part 1](https://medium.com/rackbrains/automate-ssh-key-rotation-with-ansible-part-1-a99934d2dfc9)
-- [Automate SSH Key Rotation With Ansible part 2]()
+- [Automate SSH Key Rotation With Ansible part 2](https://medium.com/rackbrains/automate-ssh-key-rotation-with-ansible-part-2-7c6f599dd086)
